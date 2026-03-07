@@ -2473,7 +2473,7 @@
         "token": "yes",
         "sort": "1",
         "desc": "免费注册登录，点右上角头像，Language选简体中文，再点头像，选账户中心，在API Tokens生成token，点小眼睛旁边图标即可复制token。通过https://fineshare.ai/fv/?s=kzHqK注册赠送2千字符和500积分，点左下角赚取积分的立即加入，邀请好友奖励1千积分，1千积分可兑换4万字符。可前往https://fk.xlb.one?cid=16&mid=167购买token(内含10万字符)",
-        "url": "https://fineshare.ai/fv/?s=kzHqK",
+        "url": "https://www.fineshare.com",
         "alias": "FV",
         "type": "FineVoice",
         "list": [
